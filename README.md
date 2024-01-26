@@ -42,7 +42,7 @@ I'm an indie AI ML DL Developer, I Specialise in making fully functional AI mode
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-#
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
