@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🏄‍♂️ Diwakar Singh
+# 👨🏻‍💻 Diwakar Singh
 
 **`AI | ML | DL (Developer/Innovator)`**
 
