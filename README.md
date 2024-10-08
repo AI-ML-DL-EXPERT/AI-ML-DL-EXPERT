@@ -17,7 +17,13 @@ Here are some ideas to get you started:
 
 **`AI | ML | DL (Developer/Innovator)`**
 
-I'm an indie AI ML DL Developer, I Specialise in making fully functional AI models. All coding projects are built from the ground up, from planning, pre-processing, and performing EDA ( Exploratory Data Analysis ) to solving real-life problems with code. I have made Various projects of ML and DL using Various libraries like, sci-kit learn, Tensorflow, Pandas, Numpy, Matplotlib, Seaborn and various other libraries which you can see in my GitHub Repositories.
+AI | ML | DL Developer & Innovator | Web, App, and Game Development
+
+I'm an independent AI, ML, and DL developer specializing in building fully functional AI models and innovative solutions. My expertise covers everything from project planning and data pre-processing to performing in-depth Exploratory Data Analysis (EDA) and solving complex, real-world problems with code.
+
+In addition to AI/ML, I lead a dedicated team of skilled developers specializing in web, app, and game development, allowing us to deliver end-to-end digital solutions across various platforms. We build high-performance applications and AI tools, utilizing powerful libraries such as scikit-learn, TensorFlow, Pandas, Numpy, Matplotlib, Seaborn, and many more, all showcased in my GitHub repositories.
+
+Together, we strive to deliver top-quality, cutting-edge solutions for businesses and individuals, transforming ideas into functional and impactful technology.
    
 ---
 
