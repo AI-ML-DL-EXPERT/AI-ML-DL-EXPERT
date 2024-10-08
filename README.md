@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 # 👨🏻‍💻 Diwakar Singh
 
-**`AI | ML | DL (Developer/Innovator)`**
-
-AI | ML | DL Developer & Innovator | Web, App, and Game Development
+**`AI | ML | DL Developer & Innovator | Web, App, and Game Development`**
 
 I'm an independent AI, ML, and DL developer specializing in building fully functional AI models and innovative solutions. My expertise covers everything from project planning and data pre-processing to performing in-depth Exploratory Data Analysis (EDA) and solving complex, real-world problems with code.
 
